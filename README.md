@@ -1,2 +1,2 @@
 # pybricks
-Private Pybricks projects for fun
+Pybricks projects for fun
